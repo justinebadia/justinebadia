@@ -1,6 +1,9 @@
 ## Hi there 👋, my name is Justine !
 <div>
-👩‍🎓 I am a student at the 42Quebec school. <br>
+👩‍🎓 I am a student at 
+  <a href="https://42quebec.com"> <img alt="42" src="https://img.shields.io/badge/Québec-000000.svg?logo=42&logoColor=white"></a>
+  
+  <br>
 
 <a href="https://github.com/JaeSeoKim/badge42">
   <img align="right" src="https://badge42.vercel.app/api/v2/claqxhwi900590gl56qgoqz1c/stats?cursusId=21&coalitionId=242"/>
