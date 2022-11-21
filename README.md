@@ -1,14 +1,13 @@
 ## Hi there 👋, my name is Justine !
 <div>
-👩‍🎓 I am a student at the 42Quebec school.
+👩‍🎓 I am a student at the 42Quebec school. <br>
 
 <a href="https://github.com/JaeSeoKim/badge42">
   <img align="right" src="https://badge42.vercel.app/api/v2/claqxhwi900590gl56qgoqz1c/stats?cursusId=21&coalitionId=242"/>
 </a>
 
-<br><br><br>
 
-<p>      
+<p>  <br>    
 <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
 <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-03599C.svg?logo=cpp2&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
@@ -22,6 +21,9 @@
 <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+<img alt="Slack" src="https://img.shields.io/badge/Slack-2eb67d.svg?logo=slack&logoColor=e01e5a">
+<img alt="Discord" src="https://img.shields.io/badge/Discord-5865f2.svg?logo=discord&logoColor=white">
+ 
  
   
  
