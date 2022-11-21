@@ -1,16 +1,14 @@
-## Hi there 👋, my name is Justine !
+<h2 align="center"> Hi there 👋, I'm Justine !</h2>
 <div>
 👩‍🎓 I am a student at 
-  <a href="https://42quebec.com"> <img alt="42" src="https://img.shields.io/badge/Québec-000000.svg?logo=42&logoColor=white"></a>
-  
-  <br>
-
+  <a href="https://42quebec.com"> <img width="90" alt="42" src="https://img.shields.io/badge/Québec-000000.svg?logo=42&logoColor=white"></a> 
+  where I learn a lot of cool things<br>
 <a href="https://github.com/JaeSeoKim/badge42">
   <img align="right" src="https://badge42.vercel.app/api/v2/claqxhwi900590gl56qgoqz1c/stats?cursusId=21&coalitionId=242"/>
-</a>
+</a> 
 
+<p>  <br> 
 
-<p>  <br>    
 <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
 <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-03599C.svg?logo=cpp2&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
