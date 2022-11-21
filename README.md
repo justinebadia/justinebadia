@@ -1,9 +1,16 @@
-### Hi there 👋
+## Hi there 👋, my name is Justine !
+<div>
+👩‍🎓 I am a student at the 42Quebec school.
+
+<a href="https://github.com/JaeSeoKim/badge42">
+  <img align="right" src="https://badge42.vercel.app/api/v2/claqxhwi900590gl56qgoqz1c/stats?cursusId=21&coalitionId=242"/>
+</a>
+</div>
 
 
 
-[<p align="center"> ![jbadia's 42 stats](https://badge42.vercel.app/api/v2/claqxhwi900590gl56qgoqz1c/stats?cursusId=21&coalitionId=242)](https://github.com/JaeSeoKim/badge42)
-[<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinebadia&layout=compact&langs_count=10&theme=tokyonight&show_icons=true&card_width=440px)](https://github.com/justinebadia)
+ 
+
 
 <!--
 **justinebadia/justinebadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
